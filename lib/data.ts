@@ -1,5 +1,5 @@
 import { IProject } from '@/types';
-import Image from 'next/image';
+// import Image from 'next/image';
 
 export const GENERAL_INFO = {
     email: 'ayushpandey9350@gmail.com',

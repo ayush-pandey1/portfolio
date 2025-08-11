@@ -32,7 +32,7 @@ export const MY_STACK = {
 
         {
             name: 'c++',
-            icon: '/logo/cpp.png',
+            icon: '/logo/Cpp.png',
         },
     ],
     frontend: [

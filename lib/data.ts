@@ -85,19 +85,19 @@ export const MY_STACK = {
         },
     ],
     database: [
-        {
-            name: 'Prisma',
-            icon: '/logo/prisma.png',
-        },
+        // {
+        //     name: 'Prisma',
+        //     icon: '/logo/prisma.png',
+        // },
 
         {
             name: 'MongoDB',
             icon: '/logo/mongodb.svg',
         },
-        {
-            name: 'PostgreSQL',
-            icon: '/logo/postgreSQL.png',
-        },
+        // {
+        //     name: 'PostgreSQL',
+        //     icon: '/logo/postgreSQL.png',
+        // },
         {
             name: 'MySQL',
             icon: '/logo/mysql.svg',
@@ -112,10 +112,10 @@ export const MY_STACK = {
             name: 'Postman',
             icon: '/logo/postman.png',
         },
-        {
-            name: 'AWS',
-            icon: '/logo/aws.png',
-        },
+        // {
+        //     name: 'AWS',
+        //     icon: '/logo/aws.png',
+        // },
     ],
 };
 

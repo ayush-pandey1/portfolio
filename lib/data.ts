@@ -330,8 +330,8 @@ Designed with a clean, responsive interface and backed by real-time communicatio
 
 export const MY_EXPERIENCE = [
     {
-        title: 'Web Developer Intern (Frontend)',
-        company: 'Google Developers Group ',
-        duration: 'Dec 2023 – June 2024',
+        title: 'Core Frontend Developer',
+        company: 'Google Developers Group (GDG - IINTM) ',
+        duration: 'Dec 2023 – Feb 2024',
     },
 ];

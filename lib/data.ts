@@ -21,10 +21,10 @@ export const SOCIAL_LINKS = [
 
 export const MY_STACK = {
     Languages: [
-        {
-            name: 'TypeScript',
-            icon: '/logo/ts.png',
-        },
+        // {
+        //     name: 'TypeScript',
+        //     icon: '/logo/ts.png',
+        // },
         {
             name: 'JavaScript',
             icon: '/logo/js.png',
